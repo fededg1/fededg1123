@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Parker",
+  "age": 51,
+  "address": {
+    "street": "Jamjez Court",
+    "city": "Notebda",
+    "state": "WA",
+    "zip": "62364"
+  },
+  "contact": {
+    "phone": "(381) 612-3303",
+    "servicePhone": "800892932"
+  },
+  "birthday": "1967-05-28T22:26:51.618Z",
+  "ip": "168.169.133.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Dokov sab je juta gemecbo poozmi bik juwsawred linac nuldo vekni we kowsekkim wehe. Lefuvo zo samo dumuh na gu on sujmifonu nojagec luc teg jurjo puscemfe mogugo vufe. Cizzigka weban bukronke tup jetirojoh pevpeki nuv efipis nipbucze fiweas jup zakka heb mar bibjifdec mi vioz.",
+    "bio": "Bonosrew sege ha ve mumobos pim pu jo telujat ul ighuf ahnugu do. Fucoko edu cakup fi ubbazi sanesfi kuwi faro mijo ke icfaz vo areavejas. Lazo zus daegi ag deab luka etisiz emiwopwe vidrasuf kiremmi pati hatekuted zevwek pu. Tackim wevebgi sakumek jake komibcob jolkar moza ri toke sa wo duhnuno fow jopdabe fa en bi rekewucu. Esu av ovcovu te murinede wot jo holes nonid gideli seunhoc deb eziz lo."
+  },
+  "apiKey": "0a7aff7b2fe3e6971ed1f650bb29914b8ec7932a2c755d516230f1f6e7c10396",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
