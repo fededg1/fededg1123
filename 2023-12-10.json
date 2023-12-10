@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Lawrence",
+  "age": 41,
+  "address": {
+    "street": "Zovka Highway",
+    "city": "Ursirse",
+    "state": "MA",
+    "zip": "52401"
+  },
+  "contact": {
+    "phone": "(574) 541-2286",
+    "servicePhone": "800149495"
+  },
+  "birthday": "1992-09-12T02:01:07.976Z",
+  "ip": "109.2.200.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Caek ri joiru zi leabulep noobaj tu tusi sewefo idfer libzusos diribni ufa. Hidlibali zagtuzuj nelfap juke sa ma izabonel napsahha evbi kuhotwo uncag ozcuov be. Ez tawev munku paokud ve ijid lahugu vefikkid olitac duvdin dumca normo.",
+    "bio": "Vaakorim lecwa kuseb doluj if het je caw wam vejoshu we sag zug uzocapte gafzaw ke guj pojezga. Eg iborojav suvogu pa orebuhut nigeube lejta codes hev utjin kuc lave runwuzig veuw uridoci juvcijal. Namud mi hagpiprin daboh zus ekbuz awecafis ence apiibodi uvme le teh vevar huwtuzpi feve vogsuw wogcija."
+  },
+  "apiKey": "940163dc9f90139a1d8087c447e3a87eb1ed2007da9183b15f7d241c4bc99979",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
