@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Greene",
+  "age": 21,
+  "address": {
+    "street": "Fesdo Glen",
+    "city": "Budehot",
+    "state": "WV",
+    "zip": "14642"
+  },
+  "contact": {
+    "phone": "(413) 988-8192",
+    "servicePhone": "800971985"
+  },
+  "birthday": "1964-06-04T07:48:22.270Z",
+  "ip": "209.127.27.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Ika fip wowmos barmi red ecu rezuzi fodhe pipzefo suwaz nusikowod asa nidavhoh fos inahib. Polegi be lamlopih zekus onvo ziehtiv ifiha gotridwu zufdut viberib dewochit iwjenimu najehok vatrew cozkapi pim cu. Jugib hetide ok iljebev ba co sanid esbi uja libteag es niwhi la muf. Emu lofzop sato in na okuza ge ajuwekgi zujo wuvhuma nab nesu ni maj. Saleso pej piw sisowki joucweh sup jop kigacer jotari juh doges mo. Jifhofof wo mabe ov lizsac nutonsuh bajazu kerdak wupaar sureb cifiwfo jaubvu luira bibsin pel ru.",
+    "bio": "Mir vahdalkad wi riffibke jofofa biupina icnokwel nilorju zodsefe eltuef musuve bur evo il jot tilogda fuvdaib. Gaojezoc teevube nun za jecnoedu filuscu elizove kohzebi raovuti wi ewuto pi pirurzim pumujizi ovoum. Ikuosiruz rarepob wuz jaj ena ce ogav wu apdaj ku to zalkukfa vukopuh badobef su du dajdub lehuc."
+  },
+  "apiKey": "c989c4a2eac485af63dfde88c94cb73631a2a1ad9c529c22be7c08e23544b91b",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
