@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Strickland",
+  "age": 41,
+  "address": {
+    "street": "Utme Pass",
+    "city": "Malujog",
+    "state": "MN",
+    "zip": "58723"
+  },
+  "contact": {
+    "phone": "(482) 645-9581",
+    "servicePhone": "800875571"
+  },
+  "birthday": "1981-07-07T11:40:41.288Z",
+  "ip": "103.22.191.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Zis hejidles reruga mesoli duthe no mo wapwim ehoza cugivlek ace fo in waewame duguzu. Eto viwjic pa litabe wiseka ku jinuj ifaif geh hir cemceag sirca nu divzuate. Ufanum hihroz dosboh te pot daz lizi lis zipet eflo epso fuazcop.",
+    "bio": "Bewaiho ze bejuk suicine eclisiw sidob edugocer hinilro mamseca deped udsehez pege zozmotec lihi lilus. Iwasitof seop aletek gokdifen idduzlo cebho howa eda jeuj oz lopdamav buvacfop adak. Nic luav he hifob sef zofobugu kucesana osedij anodad soj pes jo ho ezaobgo lohig. Azroih ismorot mitak aze ko icuda uba dewi mitahi figzi keti kudecban ucbimivu re nat no."
+  },
+  "apiKey": "13f85af084963799d6cba1b5d33dc522e6617812847ad43aadff588f8ee28a91",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
