@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Pittman",
+  "age": 22,
+  "address": {
+    "street": "Igmi Key",
+    "city": "Koplinu",
+    "state": "DE",
+    "zip": "45434"
+  },
+  "contact": {
+    "phone": "(347) 324-8743",
+    "servicePhone": "800765188"
+  },
+  "birthday": "1963-07-28T03:43:24.039Z",
+  "ip": "32.38.193.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Hilot az heva juj jaebis salmumu zeponfoj togopor dun elar bohijvez zisezkow op bikenjit he. Fibihi kirpofe apge ulkan cutrol wu ja bibdipik fecmuvha ov nug kuvjofo guh wum mehaza. Dez aslus eso ciiggi zonli ukdugzez bikuguku re cok atibapmep ki degtajo uk gi widi gi couze bu. Vokba buseh uh musba riode nalahzis guzu daci afe fisjeci ubdutbe hu areoromil.",
+    "bio": "Id aveidsoh upele va poavak lewak zame ujboz mo mimba sil lijub uzabeh. Uti sine jufison lovarve han ofiho moino ekdipe vihaze sesized wumavih opuboar kob be afwi nakwo kacitog rajwaw. Guhulen moput ir elaunvo hid ojazal cepcubis cij ga fusgofkon tucug ado cofoce."
+  },
+  "apiKey": "54134dc9cff577cd094350412bd4748028e8c7dac1fae2f837445ebc3c90b555",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
