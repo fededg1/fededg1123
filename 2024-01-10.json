@@ -1,0 +1,26 @@
+{
+  "name": "Christine Barber",
+  "age": 45,
+  "address": {
+    "street": "Paifu Mill",
+    "city": "Tepaalo",
+    "state": "WV",
+    "zip": "49313"
+  },
+  "contact": {
+    "phone": "(214) 433-7383",
+    "servicePhone": "800184411"
+  },
+  "birthday": "1979-06-30T13:59:19.364Z",
+  "ip": "206.42.19.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Nekuuc anumoga durivuug wogo guapwi ilsaeg bi tuwnibol ma etiwwu ze liteveid kaiza ki. Os suifu panuib fo vedarac jigu pomgif dirhigur vet olduw coruw dimuvnu ipha ra zozpoore. Rikhi udeovi doknoggag efedel gofeab fuizo tunkolcab suco wis usi kocit ti ticlezos ta rejasci ce atumawi wunpuv. Kogzo pebne husonefa emgujluf jalbe moir dar hunmug fupo tafic losejoc ipog.",
+    "bio": "Luvloz bofab zavzipfe zed at nizih mu vimrifve ozlinmeh udwo botbitog acele jicnoh epidem cafeal. Fuvkuwis boje pejo ik nipcak bube heho silik imvezek dupera gisvugil sojik. Ziam zifa sun hepe heccoliju teube opo fa tepseven lujwuar itkas mivic tumlun zipaoz."
+  },
+  "apiKey": "e4827f56ba003a415410f0839288a431c15a0cdf2599fb3e4e091feebf6b9fd3",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
