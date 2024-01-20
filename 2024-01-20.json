@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Manning",
+  "age": 46,
+  "address": {
+    "street": "Cocta Loop",
+    "city": "Hohharol",
+    "state": "CO",
+    "zip": "72564"
+  },
+  "contact": {
+    "phone": "(321) 963-4430",
+    "servicePhone": "800466338"
+  },
+  "birthday": "1984-03-12T22:53:49.441Z",
+  "ip": "104.255.80.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Od jomilo rafe lo jekne ew miw zekhid gedcarep mov uzrapew talojig dakdeemo teb sofimic. Armesuw zusa fotmahol vewhe fodam nohimob bootevof risilar vihihzof papzifu icisan ul lud ihsimpi. Nigpu obaso se rapuwzi utaj wiwofjo lutalo ife gi ceor zo va.",
+    "bio": "Hi ebipocak hi ujaf je uvopuzov ruko hudecepa sa giz hudi usi ibi po femhubho hubib koravde. Ra muic unuheh neile ezja nide oke du we vez vuet filir welpiva gofezgop ikku uk ajoivijog pibcedhod. Azacil vimo leloci rip potepah me pow og eminpa kilazub zujon mikisic cap soaw. Nojsocu viwpi biwgitoc apha noubmih doiviota siudoso onnot ja fet fudi bafnefkul bu hi ge avbedcoc. Kibomno tus wa gopas zorochuh gefsuwi rekif pe sa putasu wim dare ziv ikarze if berim rortigada du."
+  },
+  "apiKey": "9d19aa8e8dca2241e507d53801690ce05e69ee80bd5798c44361e33ebe73aca6",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
