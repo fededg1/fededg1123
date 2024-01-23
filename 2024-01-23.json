@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Baker",
+  "age": 40,
+  "address": {
+    "street": "Iddeb Pike",
+    "city": "Ruowso",
+    "state": "SC",
+    "zip": "70963"
+  },
+  "contact": {
+    "phone": "(745) 399-1785",
+    "servicePhone": "800355933"
+  },
+  "birthday": "1986-08-10T09:52:21.472Z",
+  "ip": "237.78.104.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Saeb waole am cakuh evzem alo woc re fuf zicwopes uba ek. Poze ofnuzhuc mufdola nuza sibomik junun jejizi ocahek ewa ic butbag odbu uge. Orjotfi befuz hav hoga mugjupivu negbiofu vuk butangan onapures ki mefge ehi ti rivowle cu aherid.",
+    "bio": "Po lanazfi oma tisuz lala dakupri eni ci jabmadit tujezhu sa sesegu zo. Siniko uku rakuhko fu dis liozeeda culuono fi la ifave nevadtij forekbo bis fean cagak. Zu cosus ivebo co dibba ri ebiowo juc setulte kunalem puzunlo vad ro higmi. Sagupve leikwop oteeni ga obuis jikmeb mu iwhigler zuj siwmud kovmi buk jiuza rordaju muvzaba wucovsoj."
+  },
+  "apiKey": "4e2e0d72d553c178dafec8e89822d929791969415ef34fd947c8b501e1ecff58",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
