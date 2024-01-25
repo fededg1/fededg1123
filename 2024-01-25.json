@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Pittman",
+  "age": 31,
+  "address": {
+    "street": "Apgaz Drive",
+    "city": "Fulofmar",
+    "state": "WV",
+    "zip": "10811"
+  },
+  "contact": {
+    "phone": "(384) 838-1040",
+    "servicePhone": "800289317"
+  },
+  "birthday": "2001-04-02T05:01:24.949Z",
+  "ip": "136.173.99.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Afo sig ebpop hamdok tabuwcuk eg apemuse geblathep mojog esevihkek woh vivmapvi rumbofir hebetlij dis. Jadgat kih gag edobej kilkoz opabive lavvi cowalfid omjed dutahoza ri curjop jimle. Vututjiv rascezdo keog hucevdeb sipi gobo sokzugmad gavdi beazduj napewcez nozwebu ahukes. Ti teduvo salonucas at sud ob hidobma pana nim ure nihzuzug vi miti hunkaloj debul taewcu opisil. Dowojmom ve ditbiroc fibe bifwier envosud puhjoup zobo raskag wawtalvop zehkob siide sahviok.",
+    "bio": "Hinca huwmezi rotsoji sijvol ifu ituvakat setho pis sigliget me jigged mijlam napofe abatulki. Pagler mesli na dog ucihe guit zevva ar vuhopte gowdiaf lo kirtaf ruewocel ubawo gi loduzis ho corbob. Miwa zu upu ozafifut noumow miwsimu vib hojidej ja va rifimzo daujuvo. Zozmubmu dekrop pa loniso kizanabid vivoro naumo duvilbaj baw tapte nav zebalopi lawolce gebassi roopoko manike."
+  },
+  "apiKey": "99b756539cacf074b91b61c2d6aa19251eacb33d0a0f6b1f32e1114bafd88424",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
