@@ -1,0 +1,26 @@
+{
+  "name": "Todd Wolfe",
+  "age": 21,
+  "address": {
+    "street": "Todir Court",
+    "city": "Sitiboba",
+    "state": "NV",
+    "zip": "45006"
+  },
+  "contact": {
+    "phone": "(510) 556-1167",
+    "servicePhone": "800868868"
+  },
+  "birthday": "1969-12-29T20:41:07.041Z",
+  "ip": "7.206.226.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Buez vavvahek nocallo dup lagwi us ravab vaki fu ja vimetpik tohira. Mo vugge regha dajojemi muj vinnem jisedsid apsala te repkok amifuto gaeci fuf sun wutgoz. Hukjobpun zelomiul wi haruh ah heh igaim koiraebo obo vigaguc funeca tegti wi erizecib luw tefzodfej coitbuj.",
+    "bio": "Marfus rakijuko cigewuci liagu obsi sovro da gino li jonubfo ponekiv ubeh zatufvot. Li ihvongif souviopo mulvowhaf oh pa dithu misupe onpogog du getra gormotot ho lacnovveh. Pede gokifjik peka izuha fer ivaaza ucve zaige zuzzi sef ne foh dedi ew ranu med ri tep."
+  },
+  "apiKey": "10eb2cf1e8215d3680ed4f5bac8345c515beedd9f1bdf78a9cb3d19da14e684b",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
