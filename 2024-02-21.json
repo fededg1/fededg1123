@@ -1,0 +1,26 @@
+{
+  "name": "Juan Daniel",
+  "age": 22,
+  "address": {
+    "street": "Defmam Place",
+    "city": "Jatedud",
+    "state": "MT",
+    "zip": "29726"
+  },
+  "contact": {
+    "phone": "(313) 575-2534",
+    "servicePhone": "800436587"
+  },
+  "birthday": "1966-09-25T00:17:10.959Z",
+  "ip": "158.137.86.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Larzajzag woz owa gupo bawe efopar dasune va afefeni vomanpo rojda jov wegoh. Cenoh eho maper lehi feduk dafortu tuk wasor bicepe eg ewbi uduahro diibofof bupi tufam didso no ezese. Rad eketerje op di giifeda redtizco virfiz tulem we aholi mowka duocuga zo gecus be maz pikec.",
+    "bio": "Ce ipedaab johzafjo je si bogin mufof apvib pusucsiz viagu faboupu ejmah wu kuonahot gen iwufibago. Ramo wigohwu geziji busa huvotol boh ca osi la pa owumuoku uhipo bi kacuj ula hipuho. Vu vezopopuh dahulamib ha coappo gen wi hi egraz cioj wolizun fasuli weeba bifobe valahul. Jeriv tiwcovruz alefud mo gosadpu ofracog gog soma cud apu coza palehef ca efnaboca ihadim ahaco."
+  },
+  "apiKey": "72ec663c2167af8673f95cfe5c386d9882462f2b298eee930e6aed31ec0822ba",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
