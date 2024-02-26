@@ -1,0 +1,26 @@
+{
+  "name": "Lula Scott",
+  "age": 56,
+  "address": {
+    "street": "Nostu Place",
+    "city": "Kalahili",
+    "state": "NJ",
+    "zip": "39400"
+  },
+  "contact": {
+    "phone": "(850) 248-4244",
+    "servicePhone": "800322264"
+  },
+  "birthday": "1990-12-16T10:13:34.207Z",
+  "ip": "105.113.226.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Fat ami tip rat werpala kil ikab uga zefse ja hece ce. Mas suesa hesakem kof bujrihab wojiluh rabol maswuon gosnur didurvab fegikca keonove zar ges lomaawi uku. Ule zov hagujdul kezuhusu ku hopekkud idiinugen pik ib avdiktin lam mu. Ag afe van pabapueb asi gikil tim itfazum hazut jahikaud ha wiwzodon cozcimup wi cuut emeihra.",
+    "bio": "Ofnuz vor larop rijo sofa rul hasur zobaw huturpez nifnoho sejakri al fonlef ambukuk. Vavlengu caepi jaro dor riij egauce vulocif fot pow midioc ludoaz satobmet holaz zedob. Cus wi rarahok luzrob wehiej rinusa laujoos elgu ricmavfi rinotew tevvatu tarorono verjuaco soovcib gum. Ozjotib guc demlic fil emuvufa kar zujvi lemge gatcozuj faklula is peza uduzekur mog. Fukmi poci hudihfor cevmer amne ceriwi da se hu jaza tamodag deb zelul ojnot ogbumjil ahutna asutec godpohi. Gi duwcufo hosoh uco wi rupvom mandezjel su bes fefiid pucowawis renobtap tofarsew ed tab. Avi vukav ejuduje omumol ge vedjelfoj saratsuk mo wo nahe zepujbu ca siakasi sissat kuri cesisheb cicet revefral."
+  },
+  "apiKey": "57f518c949cb92d0c743154ad460ce82274008dc26da8bf1ab99c109824d8933",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
