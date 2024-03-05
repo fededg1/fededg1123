@@ -1,0 +1,26 @@
+{
+  "name": "Christine Larson",
+  "age": 24,
+  "address": {
+    "street": "Fevse Circle",
+    "city": "Orlomib",
+    "state": "CT",
+    "zip": "48783"
+  },
+  "contact": {
+    "phone": "(513) 559-9837",
+    "servicePhone": "800281684"
+  },
+  "birthday": "1988-04-20T17:49:15.415Z",
+  "ip": "252.195.29.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Veefis tocil oco egourdek narkah supgif op paf sok suzma rih ohu oziru la. Bogig guhlena valrazla rav kok ram wib it resjomra lidniut lana evoli winisib hihiga. Ti wog hepuk keno somudih busegu sor ozeti we tiul jutwitcos bo ahuupe jitegmow.",
+    "bio": "Vetegona jet momsu liz gocupohu uhimapa osubuw rirefuba sahoce ujo ele de komad zeh nudewuh galewaju dodsuh. Il uboku sezni rojafol lu milbaf sas tidanuf vefi to tidud kizlan teg hioh sook. Ewi wowi oj geljuwog li ar davfuhgo bodijah ted wawvir fam mit cepva ripeoka je di vuc. Nif umu vehowtad he we hif tuokehah balpe vejme doz siemegum idhekot opi."
+  },
+  "apiKey": "d536e30e16d4df04eb1059aa2f6b6c5aa6fc0e76d4a99661d5fbd8393d943c7e",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
