@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Bishop",
+  "age": 23,
+  "address": {
+    "street": "Rakjuv Loop",
+    "city": "Fomora",
+    "state": "MD",
+    "zip": "00705"
+  },
+  "contact": {
+    "phone": "(826) 654-9029",
+    "servicePhone": "800485611"
+  },
+  "birthday": "1966-05-17T08:48:42.813Z",
+  "ip": "127.100.123.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Sobkulu bizecun ge nun povtavlin tacovkus kuswur ca zaz sejkumtib melho ofunov rerac canci. Bakli lidutiza ugicad gu umozo cov lo moliz cuf rauhpar ko nolher rouhiagi timu we jo wurolju. Nig vez iro lape vilabo hisore zasog ut telesu si uc hunmiup dokhos vafinisa usvo ugbaco ducwok buscuv.",
+    "bio": "Jehovetag judahaus za zim zugtad jo vabvu bowmunek fu ekiwe jacahwe lokbowdig. Ti anohah le oki raijebop dejtawab nurdulpa wigup de halvamwe wiwudefa adir gama le cifzuzha eb. Kiw se fa mesfe low rorere jovcetju cukfi redebzo bolvo webobrol an rizavur ciw douc gok."
+  },
+  "apiKey": "89145d565d62a50586f619ae547420ae83d724cfa0590a24817725e3f1bd838e",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
