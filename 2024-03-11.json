@@ -1,0 +1,26 @@
+{
+  "name": "Barry Lyons",
+  "age": 62,
+  "address": {
+    "street": "Jatofo Heights",
+    "city": "Amakehut",
+    "state": "UT",
+    "zip": "53859"
+  },
+  "contact": {
+    "phone": "(652) 851-5086",
+    "servicePhone": "800662917"
+  },
+  "birthday": "2006-08-23T15:23:25.403Z",
+  "ip": "127.176.239.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Dirodo toaw veolu sagok ka uftemur tiseh rovon va tupjapaj dov rib us mealdut. Gemu kathu faw oliaz dojezo nirug deli deciwu vuih lop li jij teid. Lokus ju nidu jadmab zuksah lizoug ruvtonu la tid wo si zuk serpu ut lu hopcemme awupehom etzu.",
+    "bio": "Vadkiwuz afoujsul owetu lo wi jauw lig ubfojme azruhu utaza put kelanwi ca wasupem ojsa ofom befwetub. Ijsaze canreah eraag avuna se tuusatuc hialcib sawvok hofmolnal duvfi kopablal afo nawag fana deva te nete. Gom ropgoota piczahofa mum zuvu hosi hepectaj wilefa dowuwvac su cerag jahape zusecup. Vuhwuz wamduna wehiv oh nodbub me sewom zedfut tullid juopikin mu gange."
+  },
+  "apiKey": "09ad5b17ee9320c1bbbd6190a326403ffa62bd48376a2fd3e001fd3018fd67e4",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
