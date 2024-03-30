@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Carson",
+  "age": 28,
+  "address": {
+    "street": "Cofu Square",
+    "city": "Umuneawa",
+    "state": "GA",
+    "zip": "33911"
+  },
+  "contact": {
+    "phone": "(566) 611-2578",
+    "servicePhone": "800749336"
+  },
+  "birthday": "1982-10-16T19:50:15.910Z",
+  "ip": "44.183.81.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Patavi oteasa rereme ab ujpeku firoppu vagol povaz zarol ficbul his pije vikbevcok esinok. Rotguire jetes kajivi uw hap zup nivuw meik bev iz tew enuve. Jap hiliwgu worov lusup zetkeg lievore woglufi upzezfed lucov baw besumap wuzeh pozu.",
+    "bio": "Dojev ukije di litelo ecebehe obmah nenkioju weraw vowildu zo ik no ci ukwovuli gara iw miim. Vu nadevuizi ted vu sutonala uh sohisun unagafi fi cuz hog mujobo beme wiwif. Ud lomra tutfoke bagmu nojfizuc buripiag juc acteti fomsur po muwuwuf weganu avuho. Nowejlot bizep volhupi ilwon inju wuup mujolji pikru racevid awi sekijre nuj. Lus ulobfo fucho zajuchaf camvizroc gejekjom memhud jo olugoc he felioh wuzfombaw ze cupwoh."
+  },
+  "apiKey": "9fa37abbd8bb6727c760edb286ffdcae1322d75522911b046020725ae0cb53d3",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
