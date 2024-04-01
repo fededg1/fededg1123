@@ -1,0 +1,26 @@
+{
+  "name": "Earl Collins",
+  "age": 52,
+  "address": {
+    "street": "Vawoc Pike",
+    "city": "Wemhopor",
+    "state": "MO",
+    "zip": "48467"
+  },
+  "contact": {
+    "phone": "(966) 638-4440",
+    "servicePhone": "800876636"
+  },
+  "birthday": "2000-08-13T20:09:11.680Z",
+  "ip": "186.114.155.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Temow wis dac sil turtonla zad talo wupmuc ferepi dipgiere fe fek zu lutniko zoc damve. Biimowez muv omto vu nahod uknuah riscu we soniweze conildut od kegjauva jaruzij ga mem zosor. Poisde odfu hir sip af ihilotud noukeme ig fogki izwon tif nefvidnup ikvebge ajvekip gefparbup na ijuow zazgod. Ojutuzvub gunered hoki rinizi pin girok divpimo ijiwupa powog cesepriv afoan ewozulaz lelnuejo zopoleca zuz. Son widufoul duj hiriona egateba mucu miwmoz fucsocer miluc tagnius kapruk fe.",
+    "bio": "Dof folheblid sit lioz su edu faeh nocatkuh ba nos sov ti tok gouzabed girek. Tawhe su wukjudu ef usimaj few vok jekfep id owhiv uc mo goiza gasdos. Tufom pov zelo anoudesa pafwundep fejek goafupug hovzozlu to hikfed guhuwwiv vekawbag zejap beretec cowdev. Dun libnu cuja osulil pecolhag zuk nena mujfigek fu gozbotuc tozruvuz wubojip rup debfad ad."
+  },
+  "apiKey": "5f9f708b625fbd630217e37c1e32f33d26daa1ef7fbf0bc0bf5fed0d2c768a89",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
